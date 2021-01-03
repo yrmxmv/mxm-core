@@ -1,7 +1,7 @@
 {
   "name": "yrmxmv/mxm-core",
   "description": "MXM Core files (Open Source)",
-  "type": "project",
+  "type": "library",
   "license": [
     "MIT"
   ],

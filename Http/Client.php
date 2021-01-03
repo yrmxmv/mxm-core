@@ -1,6 +1,6 @@
 <?php
 namespace MXM\core\Http;
 
-class Request
+class Client
 {
 }
